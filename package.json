@@ -1,0 +1,23 @@
+{
+  "name": "terraformerschartroom",
+  "version": "1.0.0",
+  "description": "Terraformers Bounty for on_a_t_break",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachossProduction/TerraformersChartRoom.git"
+  },
+  "author": "YounesHarrat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachossProduction/TerraformersChartRoom/issues"
+  },
+  "homepage": "https://github.com/NachossProduction/TerraformersChartRoom#readme",
+  "dependencies": {
+    "react-router": "^6.2.2",
+    "react-router-dom": "^6.2.2"
+  }
+}
