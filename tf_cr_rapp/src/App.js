@@ -1,13 +1,19 @@
 import './App.css';
+// import DataFragment from './components/DataFragment';
+// import ApiGetter from './components/ApiGetter';
 
-import Logo from './components/Logo';
+// import Logo from './components/Logo';
+
+import Main from './components/main/main'
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <Logo></Logo>
-      </header>
+    <div className="App App-main">
+
+          
+      <Main />
+
     </div>
   );
 }
